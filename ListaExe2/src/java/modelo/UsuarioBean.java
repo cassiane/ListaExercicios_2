@@ -29,6 +29,10 @@ public class UsuarioBean {
         
     }
     
+    public void cadastrar(){
+        
+    }
+    
     public String getUsuarioNome() {
         return UsuarioNome;
     }
